@@ -1,0 +1,6 @@
+x=int(input())
+y=int(input())
+z=int(input())
+tot=(x*5)+(y*10)
+a=tot//z
+print(a)
